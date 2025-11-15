@@ -567,7 +567,7 @@ const Page: React.FC = () => {
           })}
         </main>
 
-        <footer className="mt-10 text-center text-sm text-gray-400">Built with ❤️ to power your DSA journey.</footer>
+        <footer className="mt-10 text-center text-sm text-gray-400">Built By ❤️ Manas Singh.</footer>
       </div>
     </div>
   );
